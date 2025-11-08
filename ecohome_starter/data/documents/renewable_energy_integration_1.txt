@@ -1,0 +1,16 @@
+Renewable Integration: Solar + Grid-Tied Inverter Basics
+
+System Overview
+Grid-tied solar systems use inverters to convert DC solar power to AC, feeding excess into the grid.
+
+Key Components
+- PV panels (efficiency ≥20%)
+- String or microinverters
+- Net meter (for credit tracking)
+
+Performance Metrics
+- System efficiency: 75–85%
+- Payback: 6–9 years (NREL, 2024)
+
+Tip
+Orient panels south (northern hemisphere) at latitude +15° tilt for optimal yield.

@@ -1,0 +1,15 @@
+Renewable Integration: Hybrid Wind-Solar for Off-Grid Homes
+
+Why Hybrid?
+Combines wind (night/seasonal) with solar (day/peak) for 24/7 renewable supply.
+
+Sizing Example (2 kW load)
+- 1.5 kW solar array
+- 1 kW vertical-axis wind turbine
+- 10 kWh lithium battery
+
+Real-World Output
+- 8–12 kWh/day in moderate wind/solar region (RE100 Case Study, 2024)
+
+Maintenance
+Clean turbine blades quarterly; inspect solar mounting annually.

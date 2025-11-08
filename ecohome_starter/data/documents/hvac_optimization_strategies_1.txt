@@ -1,0 +1,18 @@
+HVAC Optimization: Variable Speed Drives (VSD)
+
+Overview
+Variable speed drives (VSDs) adjust compressor and fan speeds in HVAC systems to match real-time load, reducing energy waste during partial loads.
+
+Key Benefits
+- 30–50% energy savings in cooling (DOE, 2023)
+- Extended equipment lifespan
+- Improved humidity control
+
+Implementation Steps
+1. Audit current HVAC load profile
+2. Retrofit chillers/boilers with VSDs
+3. Integrate with BMS for demand-based control
+4. Monitor via sub-metering
+
+Case Study
+A 50,000 ft² office in Atlanta reduced chiller energy by 42% after VSD retrofit (ASHRAE Journal, 2024).

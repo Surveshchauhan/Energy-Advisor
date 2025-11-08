@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/code/project/ecohome_starter/mlruns/388093795376765644/1d375282cbca4fadbff652b1c12188e4/artifacts
+end_time: 1762592501614
+entry_point_name: ''
+experiment_id: '388093795376765644'
+lifecycle_stage: active
+run_id: 1d375282cbca4fadbff652b1c12188e4
+run_name: delicate-dove-88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762592501607
+status: 4
+tags: []
+user_id: student

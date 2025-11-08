@@ -1,0 +1,19 @@
+HVAC Optimization: Demand-Controlled Ventilation (DCV)
+
+Overview
+DCV uses CO₂ sensors to modulate outdoor air intake based on occupancy, avoiding over-ventilation.
+
+Savings Potential
+- 15–30% reduction in fan and heating/cooling energy (EPA ENERGY STAR)
+
+Best Applications
+- High-occupancy variable spaces (offices, schools, gyms)
+
+Sensors & Controls
+Sensor     | Threshold | Action
+-----------|-----------|--------
+CO₂        | >800 ppm  | Increase OA
+CO₂        | <600 ppm  | Reduce OA
+
+Maintenance Tip
+Calibrate CO₂ sensors annually to prevent drift.

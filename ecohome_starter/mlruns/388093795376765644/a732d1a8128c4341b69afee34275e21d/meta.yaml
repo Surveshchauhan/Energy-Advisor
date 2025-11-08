@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/code/project/ecohome_starter/mlruns/388093795376765644/a732d1a8128c4341b69afee34275e21d/artifacts
+end_time: 1762592247113
+entry_point_name: ''
+experiment_id: '388093795376765644'
+lifecycle_stage: active
+run_id: a732d1a8128c4341b69afee34275e21d
+run_name: trusting-quail-630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762592247107
+status: 4
+tags: []
+user_id: student

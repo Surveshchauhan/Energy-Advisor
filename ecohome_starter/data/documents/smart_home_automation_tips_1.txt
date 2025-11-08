@@ -1,0 +1,15 @@
+Smart Home Tip: Geofencing for Thermostat Control
+
+Concept
+Use smartphone GPS to automatically adjust thermostat when residents leave/return home.
+
+Setup (Example: ecobee + IFTTT)
+1. Enable geofencing in app
+2. Set "Away" temp: 78°F (summer) / 62°F (winter)
+3. Set "Home" temp: 72°F
+
+Annual Savings
+- 8–12% on HVAC costs (Nest Labs, 2024)
+
+Pro Tip
+Combine with occupancy sensors for multi-zone precision.

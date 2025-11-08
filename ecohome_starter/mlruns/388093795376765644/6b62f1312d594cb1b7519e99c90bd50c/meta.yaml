@@ -1,0 +1,14 @@
+artifact_uri: file:///workspace/code/project/ecohome_starter/mlruns/388093795376765644/6b62f1312d594cb1b7519e99c90bd50c/artifacts
+end_time: 1762592551149
+entry_point_name: ''
+experiment_id: '388093795376765644'
+lifecycle_stage: active
+run_id: 6b62f1312d594cb1b7519e99c90bd50c
+run_name: stately-dove-962
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762592551142
+status: 4
+tags: []
+user_id: student

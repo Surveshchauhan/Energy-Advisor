@@ -1,0 +1,18 @@
+Smart Home Tip: Automated Lighting Schedules with Motion Overrides
+
+Strategy
+Program lights to follow occupancy patterns, with manual motion sensor overrides.
+
+Tools
+- Philips Hue + Home Assistant
+- Lutron Caséta + occupancy sensors
+
+Sample Schedule
+Time            | Action
+----------------|-----------------------
+6:00 AM         | Kitchen: 70% brightness
+8:00 AM–5:00 PM | All off (if vacant)
+Sunset          | Exterior: on
+
+Savings
+- Up to 35% on lighting energy (DOE Smart Home Study, 2023)

@@ -1,0 +1,16 @@
+Energy Storage: Time-of-Use (TOU) Arbitrage
+
+Strategy
+Charge battery during off-peak (low rates), discharge during peak.
+
+Example TOU Rates
+- Off-peak (12 AM–6 AM): $0.08/kWh
+- Peak (4 PM–9 PM): $0.35/kWh
+
+Daily Cycle
+1. Charge 10 kWh at night → $0.80
+2. Discharge 8 kWh at peak → $2.80 credit
+Net savings: ~$2/day
+
+Automation
+Use Tesla Powerwall or Enphase IQ with TOU scheduling.

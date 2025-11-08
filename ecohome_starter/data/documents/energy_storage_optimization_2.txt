@@ -1,0 +1,16 @@
+Energy Storage: Frequency Regulation with VPP
+
+Concept
+Aggregated home batteries provide grid stability via Virtual Power Plants (VPP).
+
+How It Works
+- Battery responds to grid signals in <1 second
+- Earn $50–150/kW/year (CAISO, 2024)
+
+Eligibility
+- Systems ≥5 kW with cloud-connected BMS
+- Enrolled via utility or third-party (e.g., sonnen, Sunrun)
+
+User Impact
+- 95%+ capacity retained for personal use
+- Extra revenue offsets battery cost
